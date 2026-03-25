@@ -1,0 +1,12 @@
+Karo Pitch Demo - Submission Note
+
+AI Tool Used:
+ChatGPT (Codex) with AI-assisted copywriting and front-end layout generation.
+
+Why this design:
+I used a clean, investor-focused landing flow so founders quickly understand the value proposition and next action. The page follows a conversion-first structure: Hero -> Platform Context -> Process -> Eligibility -> Investor Credibility -> Featured Startups -> Final CTA. The visual direction uses warm India-forward tones, clear typography, card-based scanning, and lightweight animations to feel modern while staying assignment-friendly and mobile responsive.
+
+Deliverables included in folder:
+1) Homepage: index.html + styles.css + script.js
+2) Screenshot: homepage-screenshot.png
+3) This note: submission-note.txt
